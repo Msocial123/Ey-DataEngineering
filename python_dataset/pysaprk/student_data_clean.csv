@@ -1,0 +1,101 @@
+student_id,student_name,age,gender,course,admission_date,city,grade,marks
+1,Student_1,24,Female,Civil,2023-02-26,Hyderabad,D,70
+2,Student_2,24,Female,Electronics,2023-01-01,Hyderabad,C,73
+3,Student_3,22,Female,Electronics,2022-10-28,Delhi,B,73
+4,Student_4,21,Female,Electrical,2022-12-09,Pune,A,82
+5,Student_5,21,Female,Electrical,2023-02-08,Pune,A,98
+6,Student_6,20,Male,Information Technology,2022-12-05,Kolkata,B,96
+7,Student_7,23,Male,Mechanical,2022-07-25,Pune,D,52
+8,Student_8,22,Male,Civil,2023-04-25,Bangalore,D,74
+9,Student_9,21,Female,Information Technology,2023-02-20,Bangalore,A,51
+10,Student_10,21,Female,Mechanical,2023-02-19,Hyderabad,B,66
+11,Student_11,21,Female,Mechanical,2022-06-02,Kolkata,B,91
+12,Student_12,21,Female,Civil,2022-12-08,Bangalore,B,93
+13,Student_13,19,Female,Electrical,2023-02-25,Kolkata,C,89
+14,Student_14,22,Female,Civil,2023-05-04,Delhi,D,75
+15,Student_15,18,Female,Mechanical,2022-07-11,Delhi,C,94
+16,Student_16,18,Male,Computer Science,2023-05-10,Chennai,D,57
+17,Student_17,24,Male,Electronics,2022-08-20,Hyderabad,C,82
+18,Student_18,20,Male,Information Technology,2023-01-17,Bangalore,A,77
+19,Student_19,24,Male,Mechanical,2022-07-03,Kolkata,D,86
+20,Student_20,20,Female,Electrical,2022-07-05,Chennai,C,86
+21,Student_21,24,Female,Electronics,2023-02-12,Delhi,B,63
+22,Student_22,24,Male,Computer Science,2022-12-24,Bangalore,B,62
+23,Student_23,20,Male,Computer Science,2022-07-22,Delhi,D,53
+24,Student_24,23,Male,Civil,2022-10-21,Hyderabad,A,85
+25,Student_25,22,Female,Electronics,2023-01-29,Kolkata,D,51
+26,Student_26,19,Male,Electrical,2022-10-12,Pune,D,93
+27,Student_27,21,Female,Electrical,2023-04-27,Bangalore,C,77
+28,Student_28,18,Male,Electrical,2023-01-11,Chennai,A,76
+29,Student_29,23,Male,Mechanical,2023-01-19,Hyderabad,C,55
+30,Student_30,20,Male,Electrical,2022-11-12,Chennai,C,91
+31,Student_31,21,Female,Electronics,2022-11-07,Chennai,D,98
+32,Student_32,23,Male,Information Technology,2022-07-22,Pune,B,88
+33,Student_33,19,Male,Computer Science,2022-09-09,Chennai,D,66
+34,Student_34,20,Male,Information Technology,2022-10-08,Pune,B,72
+35,Student_35,22,Female,Computer Science,2022-10-04,Bangalore,A,93
+36,Student_36,19,Female,Electrical,2023-02-02,Pune,C,60
+37,Student_37,20,Male,Electrical,2023-03-07,Delhi,D,83
+38,Student_38,23,Female,Electronics,2023-01-26,Chennai,A,55
+39,Student_39,22,Male,Mechanical,2023-02-07,Hyderabad,D,68
+40,Student_40,19,Male,Electronics,2022-10-26,Pune,A,82
+41,Student_41,24,Female,Computer Science,2023-02-22,Pune,A,74
+42,Student_42,19,Male,Electrical,2023-03-25,Hyderabad,C,65
+43,Student_43,19,Female,Computer Science,2022-07-30,Chennai,B,50
+44,Student_44,23,Female,Civil,2022-07-07,Hyderabad,C,58
+45,Student_45,18,Male,Electronics,2023-03-31,Hyderabad,D,73
+46,Student_46,23,Female,Computer Science,2022-09-24,Hyderabad,A,57
+47,Student_47,21,Female,Mechanical,2023-02-09,Hyderabad,D,74
+48,Student_48,20,Male,Civil,2023-05-04,Bangalore,B,84
+49,Student_49,22,Male,Mechanical,2022-11-08,Pune,A,63
+50,Student_50,22,Female,Mechanical,2022-10-13,Hyderabad,A,82
+51,Student_51,21,Male,Electronics,2022-06-22,Kolkata,B,87
+52,Student_52,23,Male,Electronics,2023-02-19,Hyderabad,C,83
+53,Student_53,22,Female,Computer Science,2023-03-11,Chennai,A,97
+54,Student_54,20,Female,Electronics,2022-12-09,Chennai,D,66
+55,Student_55,21,Female,Electrical,2022-07-16,Delhi,B,84
+56,Student_56,21,Male,Civil,2023-03-07,Delhi,A,95
+57,Student_57,22,Male,Electronics,2022-12-05,Chennai,D,70
+58,Student_58,24,Male,Electronics,2022-10-06,Bangalore,A,91
+59,Student_59,24,Female,Information Technology,2023-04-19,Kolkata,D,99
+60,Student_60,24,Female,Information Technology,2022-10-05,Hyderabad,B,51
+61,Student_61,19,Male,Computer Science,2023-03-26,Kolkata,D,88
+62,Student_62,22,Female,Information Technology,2023-05-21,Bangalore,A,73
+63,Student_63,22,Female,Information Technology,2023-04-09,Pune,A,69
+64,Student_64,18,Female,Electrical,2022-10-20,Pune,C,72
+65,Student_65,24,Female,Information Technology,2023-04-18,Kolkata,C,74
+66,Student_66,19,Male,Electrical,2022-10-03,Kolkata,B,71
+67,Student_67,18,Female,Information Technology,2023-04-22,Kolkata,C,86
+68,Student_68,18,Female,Civil,2022-07-30,Pune,D,54
+69,Student_69,24,Female,Electrical,2023-05-31,Pune,B,96
+70,Student_70,20,Male,Mechanical,2022-10-22,Delhi,B,91
+71,Student_71,23,Male,Computer Science,2022-09-28,Hyderabad,D,75
+72,Student_72,22,Female,Civil,2023-04-14,Chennai,D,50
+73,Student_73,19,Female,Computer Science,2023-01-25,Bangalore,D,97
+74,Student_74,18,Female,Civil,2023-02-27,Delhi,C,54
+75,Student_75,23,Male,Electronics,2022-08-15,Bangalore,D,86
+76,Student_76,23,Male,Civil,2023-01-06,Delhi,C,98
+77,Student_77,23,Female,Electrical,2022-12-21,Bangalore,B,97
+78,Student_78,22,Male,Mechanical,2023-03-16,Kolkata,B,86
+79,Student_79,24,Female,Information Technology,2023-02-01,Delhi,D,83
+80,Student_80,21,Male,Information Technology,2023-02-05,Hyderabad,B,81
+81,Student_81,18,Female,Civil,2022-06-04,Bangalore,A,77
+82,Student_82,20,Female,Mechanical,2022-11-25,Hyderabad,D,82
+83,Student_83,18,Male,Electronics,2022-09-09,Pune,C,50
+84,Student_84,18,Female,Information Technology,2022-07-13,Pune,A,62
+85,Student_85,21,Male,Electrical,2023-02-08,Hyderabad,B,84
+86,Student_86,24,Male,Information Technology,2023-02-19,Delhi,B,59
+87,Student_87,19,Female,Information Technology,2022-09-23,Chennai,C,53
+88,Student_88,19,Male,Information Technology,2022-08-14,Delhi,D,85
+89,Student_89,18,Male,Civil,2023-02-04,Pune,B,86
+90,Student_90,18,Female,Electronics,2022-11-24,Hyderabad,D,85
+91,Student_91,19,Male,Electrical,2023-01-10,Delhi,D,98
+92,Student_92,24,Male,Computer Science,2023-05-21,Chennai,B,66
+93,Student_93,18,Female,Mechanical,2023-01-03,Kolkata,A,68
+94,Student_94,18,Female,Mechanical,2023-01-19,Hyderabad,D,58
+95,Student_95,24,Female,Electrical,2023-01-09,Pune,C,96
+96,Student_96,22,Male,Electronics,2022-06-25,Pune,C,70
+97,Student_97,21,Male,Computer Science,2022-07-09,Delhi,A,91
+98,Student_98,19,Male,Electrical,2023-01-09,Bangalore,A,84
+99,Student_99,24,Male,Electronics,2023-04-27,Bangalore,C,61
+100,Student_100,18,Female,Information Technology,2023-02-08,Kolkata,C,95

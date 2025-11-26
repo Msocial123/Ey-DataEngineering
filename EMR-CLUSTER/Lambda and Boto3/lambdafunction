@@ -1,0 +1,28 @@
+import json
+
+import boto3
+def lambda_handler(event, context):
+    glue=boto3.client('glue')
+    file_obj = event['Records'][0]['s3']['object']['key']
+    print("new file is uploaded ", file_obj)
+
+    if "products" in file_obj:
+        job_name="products_etl_job"
+    elif "users" in file_obj:
+        job_name="users_etl_job"
+    elif "transactions" in file_obj:
+        job_name="transactions_etl_job"
+    elif "clickstream" in file_obj:
+        job_name="clickstream_etl_job"
+
+    else:
+        return {"error": "unknown file"}
+       
+    respone=glue.start_job_run(JobName=job_name)
+
+    return
+    {
+        "status":" glue started ",
+        "job":job_name,
+        "run_id":respone["JobRunId"]
+    }

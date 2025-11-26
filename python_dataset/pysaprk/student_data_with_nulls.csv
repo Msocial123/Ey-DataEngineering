@@ -1,0 +1,101 @@
+student_id,student_name,age,gender,course,admission_date,city,grade,marks
+1,Student_1,,Female,Civil,2022-09-30,Hyderabad,C,70.0
+2,Student_2,18.0,Female,Civil,2023-03-21,Bangalore,D,60.0
+3,Student_3,21.0,Male,Computer Science,2022-11-17,Pune,D,70.0
+4,Student_4,22.0,Male,Mechanical,2022-10-09,Delhi,C,80.0
+5,Student_5,18.0,,Electrical,2023-02-20,Bangalore,,60.0
+6,Student_6,21.0,Female,ECE,2022-07-20,Pune,B,70.0
+7,Student_7,21.0,Male,IT,2022-11-09,Bangalore,D,80.0
+8,Student_8,18.0,Male,Computer Science,2022-12-30,Delhi,B,80.0
+9,Student_9,,Female,Civil,2022-06-15,Delhi,A,50.0
+10,Student_10,20.0,Male,ECE,2022-11-10,Hyderabad,A,80.0
+11,Student_11,21.0,,Computer Science,2022-07-03,,,90.0
+12,Student_12,23.0,Female,Civil,2022-10-09,Chennai,,80.0
+13,Student_13,20.0,Female,IT,,Delhi,C,50.0
+14,Student_14,20.0,Female,Electrical,2023-01-17,Delhi,C,60.0
+15,Student_15,21.0,Female,Mechanical,2022-07-15,,A,50.0
+16,Student_16,19.0,Male,Electrical,2023-05-14,Chennai,A,60.0
+17,Student_17,18.0,Male,ECE,,Hyderabad,A,70.0
+18,Student_18,19.0,Male,ECE,2022-09-04,Chennai,D,70.0
+19,Student_19,,Male,IT,2022-09-09,Chennai,A,60.0
+20,Student_20,20.0,Male,Computer Science,2022-10-04,Bangalore,,70.0
+21,Student_21,19.0,Female,ECE,2023-02-10,,,80.0
+22,Student_22,21.0,Male,Computer Science,2022-12-04,,,100.0
+23,Student_23,19.0,Female,ECE,2022-12-16,Pune,A,80.0
+24,Student_24,23.0,Male,Mechanical,2022-10-29,,B,60.0
+25,Student_25,22.0,Female,Mechanical,2023-03-31,,D,80.0
+26,Student_26,19.0,Male,ECE,2022-10-09,Pune,A,80.0
+27,Student_27,19.0,Female,Mechanical,2022-09-20,,A,80.0
+28,,19.0,Female,Electrical,2022-11-16,Pune,A,50.0
+29,Student_29,19.0,Male,ECE,2022-07-03,Pune,C,70.0
+30,Student_30,19.0,,Civil,2023-02-19,Hyderabad,C,90.0
+31,Student_31,21.0,Female,Civil,2023-03-31,Hyderabad,D,50.0
+32,Student_32,19.0,,Civil,2022-06-06,Hyderabad,D,50.0
+33,Student_33,20.0,,ECE,2022-09-24,Delhi,,60.0
+34,Student_34,20.0,Male,IT,2022-07-28,Hyderabad,B,80.0
+35,Student_35,18.0,Female,IT,2022-09-12,Chennai,A,90.0
+36,Student_36,19.0,Female,ECE,2022-06-13,Pune,B,50.0
+37,Student_37,19.0,Male,Electrical,2022-10-21,Pune,B,50.0
+38,Student_38,18.0,Female,Electrical,2023-04-10,Bangalore,A,50.0
+39,Student_39,20.0,Male,Computer Science,2022-07-30,Pune,D,80.0
+40,Student_40,18.0,Female,ECE,2023-04-04,Delhi,B,80.0
+41,Student_41,22.0,Male,Mechanical,2023-05-12,Delhi,B,
+42,Student_42,21.0,Male,IT,2023-01-25,Bangalore,A,80.0
+43,Student_43,,Female,Civil,2023-02-02,Hyderabad,D,80.0
+44,Student_44,18.0,Male,Mechanical,,Chennai,D,60.0
+45,,22.0,Female,Mechanical,2023-01-08,Delhi,B,80.0
+46,Student_46,18.0,Male,IT,2022-09-04,Chennai,,80.0
+47,Student_47,23.0,,Mechanical,2023-05-06,Pune,B,80.0
+48,Student_48,22.0,Female,Mechanical,2022-11-15,Bangalore,C,60.0
+49,Student_49,18.0,Male,ECE,2023-01-01,Chennai,B,70.0
+50,Student_50,18.0,Female,Computer Science,2023-04-10,Delhi,B,80.0
+51,Student_51,22.0,Female,Computer Science,2023-05-23,Chennai,C,
+52,Student_52,20.0,Female,Electrical,2023-02-23,Chennai,,90.0
+53,Student_53,20.0,Female,Mechanical,2023-05-08,Delhi,C,50.0
+54,Student_54,,Female,Computer Science,2022-12-23,Pune,C,70.0
+55,Student_55,18.0,Female,Mechanical,2022-07-23,Chennai,,100.0
+56,Student_56,,Male,ECE,2023-01-21,Hyderabad,B,
+57,Student_57,22.0,Female,Electrical,2022-10-19,Bangalore,A,90.0
+58,Student_58,18.0,Male,ECE,2023-05-31,Chennai,D,60.0
+59,Student_59,21.0,Male,Mechanical,2023-05-30,,C,60.0
+60,Student_60,20.0,Male,IT,2022-07-28,Pune,D,90.0
+61,Student_61,22.0,Female,Mechanical,2022-12-08,Pune,A,50.0
+62,Student_62,20.0,Female,Civil,2023-04-13,Delhi,,
+63,Student_63,21.0,,IT,2023-04-01,,A,80.0
+64,Student_64,23.0,Male,Mechanical,2023-02-27,,D,50.0
+65,Student_65,19.0,Female,IT,2022-06-28,Pune,,
+66,Student_66,21.0,Female,Computer Science,2023-01-06,Delhi,,100.0
+67,Student_67,23.0,Female,Computer Science,2023-04-08,,B,80.0
+68,Student_68,20.0,Female,IT,2022-11-24,Hyderabad,,90.0
+69,Student_69,22.0,Female,Computer Science,2022-09-07,Chennai,,50.0
+70,Student_70,22.0,,Electrical,2022-06-23,Delhi,,100.0
+71,Student_71,19.0,Female,Electrical,2022-11-20,Delhi,D,60.0
+72,Student_72,21.0,Male,IT,2022-09-26,Hyderabad,C,70.0
+73,Student_73,,Male,ECE,2022-09-20,Delhi,,80.0
+74,Student_74,23.0,Female,IT,2022-09-06,Bangalore,C,50.0
+75,Student_75,21.0,Female,Mechanical,2022-09-14,Hyderabad,A,100.0
+76,Student_76,23.0,Female,Mechanical,2022-08-08,Bangalore,,70.0
+77,Student_77,21.0,Male,Computer Science,2023-05-02,Hyderabad,D,60.0
+78,Student_78,23.0,Female,Civil,2022-07-31,Bangalore,C,50.0
+79,Student_79,19.0,Male,Civil,2022-10-11,Chennai,D,60.0
+80,Student_80,21.0,Female,Computer Science,2022-07-17,Chennai,C,100.0
+81,Student_81,19.0,Female,Computer Science,2022-11-27,,B,90.0
+82,Student_82,22.0,Male,ECE,2022-06-07,Hyderabad,C,80.0
+83,Student_83,20.0,Female,Computer Science,2022-06-28,Bangalore,A,90.0
+84,Student_84,21.0,Male,Civil,2022-08-07,Bangalore,C,80.0
+85,Student_85,21.0,Female,Computer Science,2022-07-12,Chennai,,70.0
+86,Student_86,21.0,Male,Civil,2023-03-16,Delhi,,60.0
+87,Student_87,19.0,Male,Electrical,2022-10-30,Chennai,C,80.0
+88,Student_88,,Male,IT,2022-08-14,Pune,A,70.0
+89,Student_89,22.0,Female,ECE,2022-11-20,Pune,,60.0
+90,Student_90,20.0,Female,Computer Science,2022-06-01,Bangalore,,80.0
+91,Student_91,20.0,Female,Electrical,2022-06-10,Delhi,B,
+92,Student_92,22.0,Male,Civil,,Chennai,C,70.0
+93,Student_93,22.0,Male,Civil,2023-01-22,Bangalore,,90.0
+94,Student_94,19.0,Male,Electrical,,Delhi,C,90.0
+95,Student_95,19.0,Male,Civil,2022-08-17,Bangalore,D,70.0
+96,Student_96,21.0,Female,Electrical,2022-10-03,,A,90.0
+97,Student_97,19.0,Female,IT,2022-09-12,Hyderabad,C,70.0
+98,Student_98,22.0,Female,Mechanical,2022-11-04,Chennai,D,90.0
+99,Student_99,,Female,Civil,2023-03-16,,D,80.0
+100,Student_100,23.0,Male,Electrical,2023-03-30,Pune,,50.0

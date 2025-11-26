@@ -1,0 +1,12 @@
+John,HR,45000
+David,HR,48000
+Maria,HR,52000
+Arun,IT,60000
+Kavya,IT,65000
+Meena,IT,60000
+Raj,Finance,55000
+Rita,Finance,58000
+Vijay,Finance,62000
+Suresh,Sales,50000
+Priya,Sales,55000
+Neha,Sales,58000
